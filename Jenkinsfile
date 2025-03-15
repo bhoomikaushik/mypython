@@ -17,7 +17,7 @@ pipeline {
                         rm -rf my_python_project
                     fi
                    
-                    git clone https://github.com/jineshranawatcode/my_python_project.git
+                    git clone https://github.com/bhoomikaushik/mypython.git
                    
                     echo "Repository cloned successfully!"
                     ls -la my_python_project
