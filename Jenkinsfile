@@ -23,7 +23,7 @@ pipeline {
 
                 dir('/home/user/my_python_project') {
 
-                    git branch: 'main', url: 'file:///home/user/my_python_project'
+                    git branch: 'main', url: 'file:///home/bhoomikaushik/my_python_project'
 
                 }
 
